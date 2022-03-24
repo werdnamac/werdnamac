@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @werdnamac
-- 👀 I’m interested in data analysis, data science, AI, computer science, algorithms, math.
-- 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to get good enough at AI to collaborate on that. 
+- 👀 I’m interested in web development, data analysis, writing, and so on.
 - 📫 How to reach me: Editor@PureLoveShop.com
 
 <!---
